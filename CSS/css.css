@@ -1,0 +1,37 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+body
+{
+  /*	 background-image: url(https://thewallpapers.org/zoom/13656/Trapper_Peak,_Bitterroot_Mountains,_Montana_-_16.jpg);*/
+	
+}
+.TESTEBODY
+{
+	background-color: black;
+}
+.Fundo1
+{ 
+
+  text-align: center;
+  margin: 0 auto;
+ 
+  background-color: rgba(100,0,0,0.90);	
+  height: 1200px;
+  width: 800px;	
+
+}
+.primeiro h1
+{	
+color: #FFFFFF;		
+font-size: 100px;
+}
+
+.segundo h1
+{	
+color: #FFFFFF;		
+font-size: 100px;
+}
